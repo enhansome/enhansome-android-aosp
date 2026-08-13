@@ -1,0 +1,2077 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "You may find also information at official_documentation.md and at channel_videos.md",
+      "items": [],
+      "title": "Specific point"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android Tools (Github)",
+          "description": "(2021) - Contains public guides and scripts tailored for custom Android Development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-03T19:30:49Z",
+            "owner": "nathanchance",
+            "repo": "android-tools",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building AOSP",
+          "description": "(2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-03T19:30:49Z",
+            "owner": "nathanchance",
+            "repo": "android-tools",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Some problems that can occur while rom compilation and their solutions(especially for lettuce)",
+          "description": "(2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-15T04:26:30Z",
+            "owner": "hpnightowl",
+            "repo": "android_helpful",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Compiling an Android kernel with Clang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-19T12:58:42Z",
+            "owner": "nathanchance",
+            "repo": "android-kernel-clang",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux kernel merge notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-10-01T10:28:37Z",
+            "owner": "android-linux-stable",
+            "repo": "notes",
+            "stars": 176
+          }
+        }
+      ],
+      "title": "Kernel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Feature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vendor specific"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rom specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android.mk : a set of tag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T11:41:19Z",
+            "owner": "TeamWin",
+            "repo": "android_bootable_recovery",
+            "stars": 1698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How generate TWRP with TwrpBuilder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-12T03:58:36Z",
+            "owner": "TwrpBuilder",
+            "repo": "twrpbuilder_tree_generator",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TWRP standard device files for Qualcomm SoCs decryption",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-02-22T22:51:29Z",
+            "owner": "TeamWin",
+            "repo": "android_device_qcom_twrp-common",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "TWRP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Information"
+    },
+    {
+      "description": "Tools for helping development of Android Rom",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "firehorse",
+          "description": "Research & Exploitation framework for Qualcomm EDL Firehose programmers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T07:49:30Z",
+            "owner": "alephsecurity",
+            "repo": "firehorse",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aosp-merger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:32:36Z",
+            "owner": "LineageOS",
+            "repo": "scripts",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADBTouchScreenControl",
+          "description": "[source] - Control a device with a broken screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2015-08-27T14:31:41Z",
+            "owner": "kjanku1",
+            "repo": "ADBTouchScreenControl",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroidFlasher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-27T18:47:56Z",
+            "owner": "ZorgeR",
+            "repo": "DroidFlasher",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projekt Scribt",
+          "description": "(XDA thread) - ROM envsetup, sync and build script for learning developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-04-07T16:30:06Z",
+            "owner": "ScriBt",
+            "repo": "ScriBt",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROM2box",
+          "description": "[sources] - All in one FRP, Flashing & unlocking tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-11T12:41:58Z",
+            "owner": "jeck24India",
+            "repo": "ROM2box-Android-Flashing-and-Repairing-tool",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edlrooter",
+          "description": "Root exploit for Google Nexus 6 using a leaked Qualcomm Emergency Download (EDL) Mode programmer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-01-25T12:06:18Z",
+            "owner": "alephsecurity",
+            "repo": "edlrooter",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android_Unlocker",
+          "description": "[sources]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-28T16:08:32Z",
+            "owner": "FabioFabRob7",
+            "repo": "Android_Unlocker",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Toolkit",
+          "description": "[sources]",
+          "children": []
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "twrpdtgen",
+          "description": "(doc) - Create a TWRP device tree only from an Android recovery stock image ROM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-09T12:05:03Z",
+            "owner": "twrpdtgen",
+            "repo": "twrpdtgen",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aospdtgen",
+          "description": "Create a LineageOS-compatible device tree from an Android stock ROM dump made with dumpyara.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:42:36Z",
+            "owner": "sebaubuntu-python",
+            "repo": "aospdtgen",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwrpBuilder",
+          "description": "Generate twrp device tree just using recovery.img and build.prop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-12T03:58:36Z",
+            "owner": "TwrpBuilder",
+            "repo": "twrpbuilder_tree_generator",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Generator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "apktool",
+          "description": "[sources]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T01:05:33Z",
+            "owner": "iBotPeaches",
+            "repo": "Apktool",
+            "stars": 25270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apk.sh",
+          "description": "[sources] - Makes reverse engineering Android apps easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-26T18:41:58Z",
+            "owner": "ax",
+            "repo": "apk.sh",
+            "stars": 3819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnyKernel3",
+          "description": "[sources/download] Flashable Zip Template for Kernel Releases with Ramdisk Modifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:18:53Z",
+            "owner": "osm0sis",
+            "repo": "AnyKernel3",
+            "stars": 1419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simg2img",
+          "description": "Convert Android sparse images to raw images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-22T10:14:15Z",
+            "owner": "anestisb",
+            "repo": "android-simg2img",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkbootimg_tools",
+          "description": "[help]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-01-01T12:26:46Z",
+            "owner": "xiaolu",
+            "repo": "mkbootimg_tools",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyFlasher",
+          "description": "[sources] - the swiss army knife of flashing custom kernels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-11-12T21:17:43Z",
+            "owner": "jcadduono",
+            "repo": "lazyflasher",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMG Patch Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-12T11:41:46Z",
+            "owner": "erfanoabdi",
+            "repo": "imgpatchtools",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abootimg",
+          "description": "Manipulate Android boot images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-18T17:03:51Z",
+            "owner": "ggrandou",
+            "repo": "abootimg",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmware_extractor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-05T12:47:24Z",
+            "owner": "erfanoabdi",
+            "repo": "Firmware_extractor",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmware Extraction",
+          "description": "Regroupment of available firmware extractors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-27T04:48:52Z",
+            "owner": "Akianonymus",
+            "repo": "Firmware_Extraction",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android System Extraction and Repack Tool",
+          "description": "[sources/download]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-11-17T14:38:32Z",
+            "owner": "iykex",
+            "repo": "android_system_extraction_and_repack_tool",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Deodexer",
+          "description": "For deodex odexed android firmwares.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-10-01T15:42:43Z",
+            "owner": "Akianonymus",
+            "repo": "Android_deodexer",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "update_payload_extractor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-07T21:52:42Z",
+            "owner": "gmrt",
+            "repo": "update_payload_extractor",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootimgtool",
+          "description": "Unpack/pack Android boot.img.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-16T21:39:01Z",
+            "owner": "vianney",
+            "repo": "bootimgtool",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jancox Tool Unpack Repack ROMs",
+          "description": "[sources 1,2,3,4/android,linux,windows/download] - For unpacking and repacking ROMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-11T17:31:03Z",
+            "owner": "wahyu6070",
+            "repo": "Jancox-tool-linux",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Extractor/Repack/Patcher"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toolchain build scripts",
+          "description": "A set of script for building kernel with LLCM, clang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T02:00:20Z",
+            "owner": "ClangBuiltLinux",
+            "repo": "tc-build",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bldgcc",
+          "description": "Builds GCC and binutils for exclusively building kernels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-03T19:30:49Z",
+            "owner": "nathanchance",
+            "repo": "android-tools",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "best-caf-kernel.py",
+          "description": "Finding the best CAF tag for a vendor kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:32:36Z",
+            "owner": "LineageOS",
+            "repo": "scripts",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kernel Rebaser Script",
+          "description": "Rebase an OEM kernel to Android Common Kernel base.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-02-07T11:15:06Z",
+            "owner": "Sushrut1101",
+            "repo": "android-kernel-rebaser",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kernel Buildinator",
+          "description": "[sources] - Automating as much part as possible of Kernel compiling process.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-05-09T14:05:08Z",
+            "owner": "SiddharthBharadwaj",
+            "repo": "Kernel_Buildinator",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Kernel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ghidra",
+          "description": "[sources] - A software reverse .engineering (SRE) framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:01:50Z",
+            "owner": "NationalSecurityAgency",
+            "repo": "ghidra",
+            "stars": 72312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radare2",
+          "description": "UNIX-like reverse engineering framework and command-line toolset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:37:05Z",
+            "owner": "radareorg",
+            "repo": "radare2",
+            "stars": 24562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bytecode Viewer",
+          "description": "A lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-17T04:48:36Z",
+            "owner": "Konloch",
+            "repo": "bytecode-viewer",
+            "stars": 15593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnirehtet",
+          "description": "Provides reverse tethering for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-11T05:17:19Z",
+            "owner": "Genymobile",
+            "repo": "gnirehtet",
+            "stars": 7836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "androguard",
+          "description": "Reverse engineering and pentesting for Android applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T06:42:12Z",
+            "owner": "androguard",
+            "repo": "androguard",
+            "stars": 6191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dobby",
+          "description": "A lightweight, multi-platform, multi-architecture hook framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-26T12:30:47Z",
+            "owner": "jmpews",
+            "repo": "Dobby",
+            "stars": 4808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplify",
+          "description": "Generic Android Deobfuscator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-30T12:20:33Z",
+            "owner": "CalebFenton",
+            "repo": "simplify",
+            "stars": 4657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APK Studio",
+          "description": "[source] - IDE for reverse-engineering Android application packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-05T04:46:46Z",
+            "owner": "vaibhavpandeyvpz",
+            "repo": "apkstudio",
+            "stars": 4604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uber Apk Signer",
+          "description": "A tool that helps to sign, zip aligning and verifying multiple Android application packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-30T09:18:40Z",
+            "owner": "patrickfav",
+            "repo": "uber-apk-signer",
+            "stars": 2706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APKiD",
+          "description": "Gives you information about how an APK was made.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-07-27T17:35:45Z",
+            "owner": "rednaga",
+            "repo": "APKiD",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dexcalibur",
+          "description": "An Android reverse engineering platform focus on instrumentation automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:51:09Z",
+            "owner": "reversenseorg",
+            "repo": "dexcalibur",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "androidre",
+          "description": "Reverse engineering Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2026-05-03T07:30:45Z",
+            "owner": "cryptax",
+            "repo": "androidre",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DumprX",
+          "description": "Firmware extractor based on dumpyara.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T08:01:38Z",
+            "owner": "DumprX",
+            "repo": "DumprX",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dumpyara",
+          "description": "Dumping vendor and Android content of a device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-31T13:35:18Z",
+            "owner": "AndroidDumps",
+            "repo": "dumpyara",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aosp-missing-blobs",
+          "description": "Identify required blobs that are missing from AOSP ROM builds with dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-22T23:53:34Z",
+            "owner": "joshchoo",
+            "repo": "aosp-missing-blobs",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dumpyara (Python)",
+          "description": "Like dumpyara but code in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T04:19:52Z",
+            "owner": "sebaubuntu-python",
+            "repo": "dumpyara",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-Blob-Utility",
+          "description": "(sources) - Easily find which proprietary blobs is needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-07-09T06:49:03Z",
+            "owner": "JackpotClavin",
+            "repo": "Android-Blob-Utility",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ldcheck",
+          "description": "Check dependencies and missing for a blob file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-09T22:29:01Z",
+            "owner": "that1",
+            "repo": "ldcheck",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Blob & vendor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibChecker",
+          "description": "(f-droid/playstore) - View the third-party libraries used by applications in your device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T01:14:34Z",
+            "owner": "LibChecker",
+            "repo": "LibChecker",
+            "stars": 7093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrustDevice-Android",
+          "description": "(izzyondroid)- Get informations about security and other.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T12:29:33Z",
+            "owner": "trustdecision",
+            "repo": "trustdevice-android",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codec Info",
+          "description": "(playstore/izzyondroid) - Detailed listing of multimedia codecs on your Android device.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-05-11T20:50:39Z",
+            "owner": "Parseus",
+            "repo": "codecinfo",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SysInfo",
+          "description": "(izzyondroid) - Simple and powerful application that gives you complete information about your mobile device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-03-18T12:39:23Z",
+            "owner": "kl3jvi",
+            "repo": "sysinfo_app",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devstat",
+          "description": "(source/izzyondroid) - Help you debug a number device issues like identifying various features you request in your AndroidManifest.xml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-30T09:02:49Z",
+            "owner": "IanField90",
+            "repo": "DevStat",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Informations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tinker",
+          "description": "A hot-fix solution library for Android, it supports dex, library and resources update without reinstalling apk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T09:34:08Z",
+            "owner": "Tencent",
+            "repo": "tinker",
+            "stars": 17657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PID Cat",
+          "description": "Only display log messages coming from a specific application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-10T13:57:53Z",
+            "owner": "JakeWharton",
+            "repo": "pidcat",
+            "stars": 4947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reverse-hal.sh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smali",
+            "last_commit": "2025-01-27T21:23:25Z",
+            "owner": "phhusson",
+            "repo": "treble_experimentations",
+            "stars": 3575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drmemory",
+          "description": "Memory Debugger for Windows, Linux, Mac, and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-13T03:36:14Z",
+            "owner": "DynamoRIO",
+            "repo": "drmemory",
+            "stars": 2739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiME - Linux Memory Extractor",
+          "description": "A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-05T13:42:51Z",
+            "owner": "jtsylve",
+            "repo": "LiME",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SysLog",
+          "description": "[f-droid/playstore]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-30T20:40:15Z",
+            "owner": "Tortel",
+            "repo": "SysLog",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "native-shim",
+          "description": "A \"shim\" for loading native jni files for Android active debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-25T03:31:18Z",
+            "owner": "rednaga",
+            "repo": "native-shim",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Binder Explorer",
+          "description": "Represente Binder relations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-03T08:32:17Z",
+            "owner": "opersys",
+            "repo": "binder-explorer-web",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Process Explorer web",
+          "description": "& Process Explorer app - Show current process graphicaly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-05T20:10:46Z",
+            "owner": "opersys",
+            "repo": "process-explorer-web",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple-ADB",
+          "description": "(sources) - ADB/Fastboot with a Graphical User Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-31T12:51:06Z",
+            "owner": "mhashim6",
+            "repo": "Simple-ADB",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEParser",
+          "description": "[sources/download] - Facilitate working with SELinux/SEPolicy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T16:50:32Z",
+            "owner": "andrwgldmn",
+            "repo": "SEcontexts_parser",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alogview",
+          "description": "A coloured log viewer for ADB logcat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-06T19:16:06Z",
+            "owner": "flimberger",
+            "repo": "alogview",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-explorer web",
+          "description": "& file-explorer app - Exploring Android files with your computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-05T20:30:55Z",
+            "owner": "opersys",
+            "repo": "file-explorer-web",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logcatTrimmer",
+          "description": "[source] - Logcat Trimmer on Website rather than 'grep'.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-12-08T21:39:38Z",
+            "owner": "ronaxdevil",
+            "repo": "logcatTrimmer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIOlog",
+          "description": "[sources] - All in One Android Logger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-01-21T17:53:06Z",
+            "owner": "wcypierre",
+            "repo": "AIOlog",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lanchon REPIT",
+          "description": "[sources] - The Data-Sparing Repartitioning Tool For Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-13T01:33:30Z",
+            "owner": "Lanchon",
+            "repo": "REPIT",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2fsck_ANDROID",
+          "description": "[sources]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-07T18:28:54Z",
+            "owner": "FabioFabRob7",
+            "repo": "e2fsck_ANDROID",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Partitions, storage & data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vendor specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LGLAF",
+          "description": "[source 1,2,3] - Utility for communication with LG devices in Download Mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-10T23:21:11Z",
+            "owner": "Lekensteyn",
+            "repo": "lglaf",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LG-KDZ-dll-Tool/LGUP_UI-fixer/LG-Kdz-downloader",
+          "description": "[sources]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-11T02:55:58Z",
+            "owner": "ehem",
+            "repo": "kdztools",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALT",
+          "description": "sources - Utility able to communicate with your device while in download mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-08T17:39:55Z",
+            "owner": "steadfasterX",
+            "repo": "SALT",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "LG"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MTKClient",
+          "description": "[download] - MTK reverse engineering and flash tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:52:40Z",
+            "owner": "bkerler",
+            "repo": "mtkclient",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "MediaTek / MTK - Auth Bypass (SLA/DAA)",
+          "description": "[website] - bypass Serial Link Authentication and Download Agent Authentication on supported devices.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bypass utility",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-03T21:24:08Z",
+                "owner": "MTK-bypass",
+                "repo": "bypass_utility",
+                "stars": 644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exploits_collection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-08-07T01:36:11Z",
+                "owner": "MTK-bypass",
+                "repo": "exploits_collection",
+                "stars": 371
+              }
+            }
+          ]
+        }
+      ],
+      "title": "MediaTek"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tzexec",
+          "description": "Disable baseband firmware signature on Sony Xperia SP & Samsung s7275r.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-04-17T11:15:34Z",
+            "owner": "eti1",
+            "repo": "tzexec",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymdt",
+          "description": "Python library for mdt firmware manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-13T13:50:12Z",
+            "owner": "eti1",
+            "repo": "pymdt",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Qualcomm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Heimdall",
+          "description": "and website - A cross-platform open-source tool suite used to flash firmware onto Samsung devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-17T12:07:53Z",
+            "owner": "Benjamin-Dobell",
+            "repo": "Heimdall",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bifrost",
+          "description": "Yet another firmware downloader for Samsung devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T13:51:01Z",
+            "owner": "zacharee",
+            "repo": "Bifrost",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "samloader",
+          "description": "Download firmware for Samsung devices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-19T16:31:47Z",
+            "owner": "samloader",
+            "repo": "samloader",
+            "stars": 921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frija",
+          "description": "sources - Download latest firmware for a Samsung device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-22T05:18:38Z",
+            "owner": "SlackingVeteran",
+            "repo": "frija",
+            "stars": 739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thor",
+          "description": "[source/downloaddocumentation] - An alternative to well-known Heimdall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-07T09:15:12Z",
+            "owner": "Samsung-Loki",
+            "repo": "Thor",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freya",
+          "description": "[source]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-27T00:08:23Z",
+            "owner": "Alephgsm",
+            "repo": "Freya",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Samsung"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flashtool",
+          "description": "[sources/website/download] - An Xperia device flashing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-12T15:17:26Z",
+            "owner": "Androxyde",
+            "repo": "Flashtool",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anyxperia_dumper",
+          "description": "[source] - Tool for dump any Sony Xperia image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-11-03T15:12:03Z",
+            "owner": "munjeni",
+            "repo": "anyxperia_dumper",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xflasher",
+          "description": "[sources] - For flashing old xperia devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-11-03T14:09:07Z",
+            "owner": "munjeni",
+            "repo": "xflasher",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Sony"
+    },
+    {
+      "description": "You can use them as inspiration to create your own or find solutions",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShivamKumarJha/android_tools (Github)",
+          "description": "Collection of scripts to help with Android ROM stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-26T23:08:30Z",
+            "owner": "ShivamKumarJha",
+            "repo": "android_tools",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akhilnarang/scripts (Github)",
+          "description": "Some script useful for ROM development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-01T21:55:15Z",
+            "owner": "akhilnarang",
+            "repo": "scripts",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LineageOS scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:32:36Z",
+            "owner": "LineageOS",
+            "repo": "scripts",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android_helpful",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-15T04:26:30Z",
+            "owner": "hpnightowl",
+            "repo": "android_helpful",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-18T17:08:36Z",
+            "owner": "JarlPenguin",
+            "repo": "releases",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Build Environment Scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-09-14T14:54:52Z",
+            "owner": "CyberJalagam",
+            "repo": "aosp_rom_automation",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSans0/my-script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-02T07:59:46Z",
+            "owner": "XSans0",
+            "repo": "my-script",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Users scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "BiTGApps",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Fossapps creator",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-03-01T05:22:00Z",
+                "owner": "wacko1805",
+                "repo": "Fossapps-creator",
+                "stars": 47
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "microG",
+          "description": "A anti GAPPS, compatibility with Google Play Service apps without Google.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-31T22:42:49Z",
+                "owner": "microg",
+                "repo": "GmsCore",
+                "stars": 14206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiki",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-31T22:42:49Z",
+                "owner": "microg",
+                "repo": "GmsCore",
+                "stars": 14206
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NikGApps",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Create own configuration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-12T14:42:51Z",
+                "owner": "nikgapps",
+                "repo": "config",
+                "stars": 235
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OpenGApps",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-12T14:11:17Z",
+                "owner": "opengapps",
+                "repo": "opengapps",
+                "stars": 5962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiki",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-12T14:11:17Z",
+                "owner": "opengapps",
+                "repo": "opengapps",
+                "stars": 5962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FAQ",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-12T14:11:17Z",
+                "owner": "opengapps",
+                "repo": "opengapps",
+                "stars": 5962
+              }
+            }
+          ]
+        }
+      ],
+      "title": "GApps"
+    },
+    {
+      "description": "Source code for some project related to Android AOSP.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magisk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Download",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T00:11:18Z",
+                "owner": "topjohnwu",
+                "repo": "Magisk",
+                "stars": 62185
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:11:18Z",
+            "owner": "topjohnwu",
+            "repo": "Magisk",
+            "stars": 62185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android AOSP mirror Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-11T23:14:44Z",
+            "owner": "aosp-mirror",
+            "repo": "platform_development",
+            "stars": 2693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LineageOS Source Device Tree Template",
+          "description": "Build device trees and port custom ROMs and recoveries to new devices easily with this template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-05T19:09:53Z",
+            "owner": "imasaru",
+            "repo": "android_device_tree_template",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example commit to log device startup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T11:53:24Z",
+            "owner": "aoleary",
+            "repo": "device_lge_g4-common",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Sources example"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-android-ui",
+          "description": "List of Android UI/UX Libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T05:39:52Z",
+            "owner": "wasabeef",
+            "repo": "awesome-android-ui",
+            "stars": 57188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T00:17:55Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-shell",
+          "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:40:51Z",
+            "owner": "alebcay",
+            "repo": "awesome-shell",
+            "stars": 37435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-tips",
+          "description": "Collection of git-tips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:01:21Z",
+            "owner": "git-tips",
+            "repo": "tips",
+            "stars": 21722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-android",
+          "description": "For Android application development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-27T08:14:07Z",
+            "owner": "JStumpp",
+            "repo": "awesome-android",
+            "stars": 12274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-security-awesome",
+          "description": "A collection of android security related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-10T06:52:34Z",
+            "owner": "ashishb",
+            "repo": "android-security-awesome",
+            "stars": 9604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git and Git Flow Cheat Sheet",
+          "description": "Collection of git commands with descriptions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T07:50:34Z",
+            "owner": "arslanbilal",
+            "repo": "git-cheat-sheet",
+            "stars": 7422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-linux",
+          "description": "Collections of Linux & GNU\\Linux resources.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-02-04T17:02:53Z",
+            "owner": "inputsh",
+            "repo": "awesome-linux",
+            "stars": 5108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-reverse-engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-01T16:55:49Z",
+            "owner": "alphaSeclab",
+            "repo": "awesome-reverse-engineering",
+            "stars": 5022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-reversing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-19T07:30:45Z",
+            "owner": "tylerha97",
+            "repo": "awesome-reversing",
+            "stars": 4508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-c",
+          "description": "A curated list of C good stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-09-27T14:10:08Z",
+            "owner": "inputsh",
+            "repo": "awesome-c",
+            "stars": 3858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-git",
+          "description": "Ressources for learning how to use Git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T07:00:27Z",
+            "owner": "dictcp",
+            "repo": "awesome-git",
+            "stars": 2924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-make",
+          "description": "Collections of Make resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-20T13:57:48Z",
+            "owner": "adelarsq",
+            "repo": "awesome-make",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reverse-Engineering",
+          "description": "List resources about reverse engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-03T18:03:08Z",
+            "owner": "OshekharO",
+            "repo": "Reverse-Engineering",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Related awesome"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/davisRoman/aosp-research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2017-06-04T18:44:46Z",
+            "owner": "davisRoman",
+            "repo": "aosp-research",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ysh329/android-reverse-engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-27T02:39:04Z",
+            "owner": "ysh329",
+            "repo": "android-reverse-engineering",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Todo"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:56:16.386Z",
+    "original_repository": "Akipe/awesome-android-aosp",
+    "original_repository_sha": "d32ac9e1b77fa3f8ecb7e408ef96a8912fe79ecb",
+    "enhanced_repository": "enhansome/enhansome-android-aosp",
+    "enhanced_repository_description": null,
+    "title": "Awesome Android AOSP with stars"
+  }
+}
