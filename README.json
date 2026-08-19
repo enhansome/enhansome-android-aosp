@@ -357,7 +357,7 @@
                 "last_commit": "2026-08-11T01:05:33Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25318
+                "stars": 25319
               }
             },
             {
@@ -671,7 +671,7 @@
                 "last_commit": "2026-08-18T16:16:20Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72511
+                "stars": 72516
               }
             },
             {
@@ -683,10 +683,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T00:36:40Z",
+                "last_commit": "2026-08-19T11:03:59Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24596
+                "stars": 24597
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-07-17T04:48:36Z",
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15601
+                "stars": 15602
               }
             },
             {
@@ -761,7 +761,7 @@
                 "last_commit": "2022-04-30T12:20:33Z",
                 "owner": "CalebFenton",
                 "repo": "simplify",
-                "stars": 4658
+                "stars": 4657
               }
             },
             {
@@ -776,7 +776,7 @@
                 "last_commit": "2026-01-05T04:46:46Z",
                 "owner": "vaibhavpandeyvpz",
                 "repo": "apkstudio",
-                "stars": 4613
+                "stars": 4614
               }
             },
             {
@@ -791,7 +791,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2708
+                "stars": 2706
               }
             },
             {
@@ -948,7 +948,7 @@
                 "last_commit": "2026-08-18T09:18:47Z",
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7104
+                "stars": 7105
               }
             },
             {
@@ -1030,7 +1030,7 @@
                 "last_commit": "2026-08-12T09:34:08Z",
                 "owner": "Tencent",
                 "repo": "tinker",
-                "stars": 17637
+                "stars": 17638
               }
             },
             {
@@ -1494,7 +1494,7 @@
                     "last_commit": "2026-05-22T05:18:38Z",
                     "owner": "SlackingVeteran",
                     "repo": "frija",
-                    "stars": 740
+                    "stars": 741
                   }
                 },
                 {
@@ -1746,7 +1746,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14280
+                "stars": 14285
               }
             },
             {
@@ -1761,7 +1761,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14280
+                "stars": 14285
               }
             }
           ]
@@ -1780,7 +1780,7 @@
                 "archived": false,
                 "id": 351952547,
                 "language": null,
-                "last_commit": "2026-08-19T07:05:20Z",
+                "last_commit": "2026-08-19T09:44:41Z",
                 "owner": "nikgapps",
                 "repo": "config",
                 "stars": 235
@@ -1805,7 +1805,7 @@
                 "last_commit": "2026-08-12T14:11:17Z",
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963
+                "stars": 5964
               }
             },
             {
@@ -1820,7 +1820,7 @@
                 "last_commit": "2026-08-12T14:11:17Z",
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963
+                "stars": 5964
               }
             },
             {
@@ -1835,7 +1835,7 @@
                 "last_commit": "2026-08-12T14:11:17Z",
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963
+                "stars": 5964
               }
             }
           ]
@@ -1863,7 +1863,7 @@
                 "last_commit": "2026-08-18T18:38:55Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62292
+                "stars": 62298
               }
             }
           ],
@@ -1874,7 +1874,7 @@
             "last_commit": "2026-08-18T18:38:55Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62292
+            "stars": 62298
           }
         },
         {
@@ -1940,7 +1940,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57247
+            "stars": 57248
           }
         },
         {
@@ -1955,7 +1955,7 @@
             "last_commit": "2026-08-17T00:12:13Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48781
+            "stars": 48783
           }
         },
         {
@@ -2060,7 +2060,7 @@
             "last_commit": "2021-09-01T16:55:49Z",
             "owner": "alphaSeclab",
             "repo": "awesome-reverse-engineering",
-            "stars": 5027
+            "stars": 5028
           }
         },
         {
@@ -2179,8 +2179,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:26:21.234Z",
+    "last_updated": "2026-08-19T12:19:11.377Z",
     "original_repository": "Akipe/awesome-android-aosp",
+    "original_repository_id": 604149747,
     "original_repository_sha": "d32ac9e1b77fa3f8ecb7e408ef96a8912fe79ecb",
     "enhanced_repository": "enhansome/enhansome-android-aosp",
     "enhanced_repository_description": null,
