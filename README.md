@@ -4,7 +4,7 @@
 
 This collection does not concern the development of application, there is a awesome list concerning this case at [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,296 | 🐛 94 | 📅 2025-10-27.
 
-Inspired by many awesome list like [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,422 | 🐛 106 | 📅 2026-08-21.
+Inspired by many awesome list like [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21.
 
 **This project is in work in progress !!! Some links may be not valid or not so useful.**
 
@@ -399,6 +399,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Blob and dump
 
+* [Guide for full firmware extractors](https://github.com/Akianonymus/Firmware_Extraction) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2019-04-27
 * [Extract vendor from stock firmware (Sony Xperia Z7 Premium)](https://forum.xda-developers.com/t/guide-extract-vendor-from-stock-firmware.4212587/)
 * [Making Dump Files Out of Android Device Partitions](https://forum.xda-developers.com/t/guide-making-dump-files-out-of-android-device-partitions.2450045/)
 * [Vendor Blob Extraction (v2)](https://baalajimaestro.me/posts/extract-vendor-2/) [old version](https://baalajimaestro.me/posts/extract-vendor/)
@@ -407,7 +408,6 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 * [ldd equivalent on android](https://stackoverflow.com/questions/15534104/ldd-equivalent-on-android)
 * [What are blobs and HALs? ](https://www.reddit.com/r/Android/comments/52ovsh/eli5_what_are_blobs_and_hals/)
 * [What are Blobs on Android?](https://www.quora.com/What-are-Blobs-on-Android)
-* [Guide for full firmware extractors](https://github.com/Akianonymus/Firmware_Extraction) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2019-04-27
 * [How to Decompile APKs with ODEX files](https://forum.xda-developers.com/t/guide-how-to-decompile-apks-with-odex-files-noob-friendly.3325340/)
 * [How to easily edit/modify .apk files](https://forum.xda-developers.com/t/guide-how-to-easily-edit-modify-apk-files-simple-noob-friendly.2058850/)
 * [Working with proprietary blobs](https://wiki.lineageos.org/proprietary_blobs.html)
@@ -545,6 +545,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Debugging
 
+* [Proper AOSP bug reporting](https://github.com/nathanchance/android-tools/blob/main/guides/proper_bug_reporting.txt) ⭐ 195 | 🐛 2 | 🌐 Shell | 📅 2021-08-03
 * [Battery Status: Android](https://scribe.nixnet.services/android-knowledge-store/battery-status-android-fe3fd63f7ae5)
 * [How to Find App UID](https://scribe.froth.zone/swlh/how-to-find-app-uid-9c9029063666)
 * [Make Android Application Debugging Easier with STrace](https://www.xda-developers.com/make-android-application-debugging-easier-with-strace/)
@@ -556,7 +557,6 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 * [Strace et Ltrace : tracez les appels systèmes et librairies](https://wiki.deimos.fr/Strace_et_Ltrace_:_tracez_les_appels_syst%C3%A8mes_et_librairies.html)
 * [Android Log Analysis](https://budhdisharma.medium.com/android-log-analysis-176f9b9dafaf)
 * [How to Acquire Logs](https://telegra.ph/HOW-TO-TAKE-LOGS-06-11)
-* [Proper AOSP bug reporting](https://github.com/nathanchance/android-tools/blob/main/guides/proper_bug_reporting.txt) ⭐ 195 | 🐛 2 | 🌐 Shell | 📅 2021-08-03
 * [Troubleshooting examples](https://www.youtube.com/playlist?list=PLRJ9-cX1yE1lQwh_NHLAzcZsW5lMerXby)
 * [Errors - Common or Not](https://www.youtube.com/playlist?list=PLRJ9-cX1yE1kokIK8VfyE09RoCNqefoY3)
 * [How to take system logcats, kernel logs, and dmesg on Android](https://www.xda-developers.com/how-to-take-logs-android/)
@@ -779,7 +779,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Git, Gerrit & merging
 
-*There is also awesome lists with more resources : [awesome-git](https://github.com/dictcp/awesome-git#readme) ⭐ 2,933 | 🐛 70 | 📅 2026-07-07, [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,432 | 🐛 2 | 📅 2026-03-04 and [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10.*
+*There is also awesome lists with more resources : [awesome-git](https://github.com/dictcp/awesome-git#readme) ⭐ 2,933 | 🐛 70 | 📅 2026-07-07, [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,433 | 🐛 2 | 📅 2026-03-04 and [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10.*
 
 * [How AOSP Security Patches are merged into Android Custom ROMs?](https://adityatelange.in/blog/aosp/merge-security-patches-aosp/)
 * [How-To Cherry-Pick Features for your ROM (both Github and Gerrit)](https://forum.xda-developers.com/t/guide-how-to-cherry-pick-features-for-your-rom-both-github-and-gerrit.2763236/)
@@ -815,6 +815,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Reverse Engeenering
 
+* [android-scripts](https://github.com/strazzere/android-scripts) ⭐ 424 | 🐛 0 | 🌐 C++ | 📅 2020-05-03 - Collection of Android reverse engineering scripts that makes life easier.
 * [EVERYONE in Cyber Security Should Understand Reversing (its EASY)](https://www.youtube.com/watch?v=gh2RXE9BIN8) \[2023] \[video]
 * [Simple Tools and Techniques for Reversing a binary](https://www.youtube.com/watch?v=3NTXFUxcKPc) \[2016] \[video]
 * [Reverse Engineering #0 - Comment bien débuter et gagner du temps](https://www.youtube.com/watch?v=ur0iyh40HK0) \[2021] \[french/video]
@@ -822,7 +823,6 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 * [Introduction to Firmware Reversing](https://www.youtube.com/watch?v=GIU4yJn2-2A) \[video]
 * [Patching Binaries (with vim, Binary Ninja, Ghidra and radare2)](https://www.youtube.com/watch?v=LyNyf3UM9Yc)
 * [In-depth: ELF - The Extensible & Linkable Format](https://www.youtube.com/watch?v=nC1U1LJQL8o) \[video]
-* [android-scripts](https://github.com/strazzere/android-scripts) ⭐ 424 | 🐛 0 | 🌐 C++ | 📅 2020-05-03 - Collection of Android reverse engineering scripts that makes life easier.
 * [Frida Operation Manual - Android Environment Preparation](https://bbs-kanxue-com.translate.goog/thread-248293.htm?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) \[[orginal language](https://bbs.kanxue.com/thread-248293.htm)]
 * [Preliminary Exploration of Android Ransomware Virus](https://paper-seebug-org.translate.goog/1085/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) \[[original link](https://paper.seebug.org/1085/)]
 
@@ -833,8 +833,8 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ##### ghidra
 
-* [How to reverse engineer JNI in Android with Ghidra](https://www.youtube.com/watch?app=desktop\&v=wZC7Pzm3jRA)
 * [ghidra-jni](https://github.com/extremecoders-re/ghidra-jni) ⭐ 98 | 🐛 0 | 🌐 C | 📅 2020-03-02
+* [How to reverse engineer JNI in Android with Ghidra](https://www.youtube.com/watch?app=desktop\&v=wZC7Pzm3jRA)
 * [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs)
 * [Reverse engineering with ghidra](https://www.youtube.com/watch?v=d4Pgi5XML8E\&list=PLIfB3Ur76mFghKTtY5v7y94Fn8m1qoNV-) \[playlist]
 * [Ghidra quickstart & tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA)
@@ -847,6 +847,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Documentation
 
+* [Projekt ScriBt wiki](https://scribt.github.io/index.html) ([XDA thread](https://forum.xda-developers.com/t/guide-tool-linux-projekt-scribt-v2-2-1-build-a-rom-newbie-friendly.3503018/) & [sources](https://github.com/ScriBt/ScriBt.github.io) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2022-04-24)
 * [Android Open Source Project](https://source.android.com/) - Official documentation for Android AOSP
 * [Android Code Search](https://cs.android.com/android)
 * [LineageOS wiki](https://wiki.lineageos.org/)
@@ -855,7 +856,6 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 * [XDA Forum : Android Software Development](https://forum.xda-developers.com/f/android-software-development.524/)
 * [XDA : All guides at one place](https://forum.xda-developers.com/t/guides-all-guides-at-one-place.2073370/)
 * [Archlinux : How build Android](https://wiki.archlinux.org/title/Android#Building) - Steps for building Android on Archlinux (and maybe other distributions).
-* [Projekt ScriBt wiki](https://scribt.github.io/index.html) ([XDA thread](https://forum.xda-developers.com/t/guide-tool-linux-projekt-scribt-v2-2-1-build-a-rom-newbie-friendly.3503018/) & [sources](https://github.com/ScriBt/ScriBt.github.io) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2022-04-24)
 * [bootlin documentation](https://bootlin.com/docs/)
 * [Halium](https://docs.halium.org/en/latest/index.html)
 * newandroidbook.com
@@ -908,7 +908,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 ### General
 
 * [firehorse](https://github.com/alephsecurity/firehorse) ⭐ 409 | 🐛 9 | 🌐 Python | 📅 2018-01-23 - Research & Exploitation framework for Qualcomm EDL Firehose programmers
-* [aosp-merger](https://github.com/LineageOS/scripts/tree/master/aosp-merger) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-22
+* [aosp-merger](https://github.com/LineageOS/scripts/tree/master/aosp-merger) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * [ADBTouchScreenControl](https://forum.xda-developers.com/t/tool-windows-control-a-device-with-a-broken-screen-now-with-touchscreen-support.2786395/) \[[source](https://github.com/kjanku1/ADBTouchScreenControl) ⭐ 107 | 🐛 3 | 🌐 Visual Basic | 📅 2015-08-27] - Control a device with a broken screen.
 * [DroidFlasher](https://github.com/ZorgeR/DroidFlasher) ⭐ 104 | 🐛 3 | 🌐 Java | 📅 2022-11-27
 * [Projekt Scribt](https://github.com/ScriBt/ScriBt) ⭐ 97 | 🐛 0 | 🌐 Shell | 📅 2019-04-07 ([XDA thread](https://forum.xda-developers.com/t/guide-tool-linux-projekt-scribt-v2-2-1-build-a-rom-newbie-friendly.3503018/)) - ROM envsetup, sync and build script for learning developers.
@@ -950,7 +950,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Extractor/Repack/Patcher
 
-* [apktool](https://ibotpeaches.github.io/Apktool/) \[[sources](https://github.com/iBotPeaches/Apktool) ⭐ 25,357 | 🐛 83 | 🌐 Java | 📅 2026-08-24]
+* [apktool](https://ibotpeaches.github.io/Apktool/) \[[sources](https://github.com/iBotPeaches/Apktool) ⭐ 25,360 | 🐛 82 | 🌐 Java | 📅 2026-08-24]
 * [apk.sh](https://forum.xda-developers.com/t/apk-sh-makes-reverse-engineering-android-apps-easier.4513735/) \[[sources](https://github.com/ax/apk.sh) ⭐ 3,821 | 🐛 9 | 🌐 Shell | 📅 2026-01-26] - Makes reverse engineering Android apps easier.
 * [AnyKernel3](https://forum.xda-developers.com/t/dev-template-anykernel3-easily-mod-rom-ramdisk-pack-image-gz-flashable-zip.2670512/) \[[sources](https://github.com/osm0sis/AnyKernel3/) ⭐ 1,426 | 🐛 0 | 🌐 Shell | 📅 2026-08-22/[download](https://github.com/osm0sis/AnyKernel3/archive/master.zip) ⭐ 1,426 | 🐛 0 | 🌐 Shell | 📅 2026-08-22] Flashable Zip Template for Kernel Releases with Ramdisk Modifications.
 * [simg2img](https://github.com/anestisb/android-simg2img) ⭐ 842 | 🐛 14 | 🌐 C++ | 📅 2025-04-22 - Convert Android sparse images to raw images.
@@ -992,17 +992,17 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 * [Toolchain build scripts](https://github.com/ClangBuiltLinux/tc-build) ⭐ 250 | 🐛 10 | 🌐 Python | 📅 2026-08-14 - A set of script for building kernel with LLCM, clang.
 * [bldgcc](https://github.com/nathanchance/android-tools/blob/main/scripts/bldgcc) ⭐ 195 | 🐛 2 | 🌐 Shell | 📅 2021-08-03 - Builds GCC and binutils for exclusively building kernels.
-* [best-caf-kernel.py](https://github.com/LineageOS/scripts/blob/master/best-caf-kernel/best-caf-kernel.py) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Finding the best CAF tag for a vendor kernel.
+* [best-caf-kernel.py](https://github.com/LineageOS/scripts/blob/master/best-caf-kernel/best-caf-kernel.py) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Finding the best CAF tag for a vendor kernel.
 * [Kernel Rebaser Script](https://github.com/Sushrut1101/android-kernel-rebaser) ⭐ 37 | 🐛 0 | 🌐 Shell | 📅 2023-02-07 - Rebase an OEM kernel to Android Common Kernel base.
 * [Kernel Buildinator](https://forum.xda-developers.com/t/tool-linux-kernel-buildinator-by-siddharth-bharadwaj.4069605/) \[[sources](https://github.com/SiddharthBharadwaj/Kernel_Buildinator) ⚠️ Archived] - Automating as much part as possible of Kernel compiling process.
 * [Automated Linux Kernel CVE Patcher](https://forum.xda-developers.com/t/tool-automated-linux-kernel-cve-patcher.4249547/)
 
 ### Blob & vendor
 
-* [Ghidra](https://ghidra-sre.org/) \[[sources](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,731 | 🐛 1,919 | 🌐 Java | 📅 2026-08-24] - A software reverse .engineering (SRE) framework
-* [radare2](https://github.com/radareorg/radare2) ⭐ 24,631 | 🐛 818 | 🌐 C | 📅 2026-08-24 - UNIX-like reverse engineering framework and command-line toolset.
-* [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) ⭐ 15,615 | 🐛 103 | 🌐 Java | 📅 2026-07-17 - A lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.
-* [gnirehtet](https://github.com/genymobile/gnirehtet) ⭐ 7,850 | 🐛 324 | 🌐 Java | 📅 2024-08-11 - Provides reverse tethering for Android.
+* [Ghidra](https://ghidra-sre.org/) \[[sources](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,739 | 🐛 1,920 | 🌐 Java | 📅 2026-08-24] - A software reverse .engineering (SRE) framework
+* [radare2](https://github.com/radareorg/radare2) ⭐ 24,632 | 🐛 819 | 🌐 C | 📅 2026-08-24 - UNIX-like reverse engineering framework and command-line toolset.
+* [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) ⭐ 15,614 | 🐛 103 | 🌐 Java | 📅 2026-07-17 - A lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.
+* [gnirehtet](https://github.com/genymobile/gnirehtet) ⭐ 7,851 | 🐛 324 | 🌐 Java | 📅 2024-08-11 - Provides reverse tethering for Android.
 * [androguard](https://github.com/androguard/androguard) ⭐ 6,202 | 🐛 45 | 🌐 Python | 📅 2026-08-13 - Reverse engineering and pentesting for Android applications.
 * [Dobby](https://github.com/jmpews/Dobby) ⭐ 4,811 | 🐛 98 | 🌐 C++ | 📅 2025-01-26 - A lightweight, multi-platform, multi-architecture hook framework.
 * [Simplify](https://github.com/calebfenton/simplify) ⭐ 4,657 | 🐛 32 | 🌐 Java | 📅 2022-04-30 - Generic Android Deobfuscator.
@@ -1013,7 +1013,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 * [androidre](https://github.com/cryptax/androidre) ⭐ 607 | 🐛 1 | 🌐 Reason | 📅 2026-05-03 - Reverse engineering Android.
 * [DumprX](https://github.com/DumprX/DumprX) ⭐ 247 | 🐛 2 | 🌐 Python | 📅 2026-07-30 - Firmware extractor based on dumpyara.
 * [dumpyara](https://github.com/AndroidDumps/dumpyara) ⭐ 237 | 🐛 5 | 🌐 Shell | 📅 2025-07-31 - Dumping vendor and Android content of a device.
-* [aosp-missing-blobs](https://github.com/joshchoo/aosp-missing-blobs) ⭐ 218 | 🐛 0 | 🌐 Rust | 📅 2025-05-22 - Identify required blobs that are missing from AOSP ROM builds with dependencies.
+* [aosp-missing-blobs](https://github.com/joshchoo/aosp-missing-blobs) ⭐ 217 | 🐛 0 | 🌐 Rust | 📅 2025-05-22 - Identify required blobs that are missing from AOSP ROM builds with dependencies.
 * [dumpyara (Python)](https://github.com/sebaubuntu-python/dumpyara) ⭐ 176 | 🐛 10 | 🌐 Python | 📅 2026-08-13 - Like dumpyara but code in Python.
 * [Android-Blob-Utility](https://forum.xda-developers.com/t/blob-utility-for-aosp-based-roms.2794413/) [(sources)](https://github.com/JackpotClavin/Android-Blob-Utility) ⭐ 148 | 🐛 6 | 🌐 C | 📅 2020-07-09 - Easily find which proprietary blobs is needed.
 * [ldcheck](https://github.com/that1/ldcheck) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2025-02-09 - Check dependencies and missing for a blob file.
@@ -1179,7 +1179,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 #### Samsung
 
 * [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,097 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 and [website](https://glassechidna.com.au/heimdall/) - A cross-platform open-source tool suite used to flash firmware onto Samsung devices.
-* [Bifrost](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,556 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 - Yet another firmware downloader for Samsung devices.
+* [Bifrost](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,557 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 - Yet another firmware downloader for Samsung devices.
 * [samloader](https://github.com/samloader/samloader) ⚠️ Archived - Download firmware for Samsung devices.
 * [frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) [sources](https://github.com/SlackingVeteran/frija) ⭐ 741 | 🐛 0 | 📅 2026-05-22 - Download latest firmware for a Samsung device.
 * [Thor](https://forum.xda-developers.com/t/abandoned-thor-open-source-samsung-flash-tool-with-additinal-features.4453437/) \[[source](https://github.com/Samsung-Loki/thor) ⭐ 410 | 🐛 10 | 🌐 C# | 📅 2025-06-07/[download](https://nightly.link/Samsung-Loki/Thor/workflows/build/main)[documentation](https://samsung-loki.github.io/samsung-docs/)] - An alternative to well-known Heimdall.
@@ -1203,12 +1203,12 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Xiaomi
 
+* [Xiaomi Firmware Updater](https://forum.xda-developers.com/t/all-devices-xiaomi-firmware-updater-v5-auto-updated-daily.3741446/) \[[sources](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) ⭐ 456 | 🐛 8 | 🌐 Python | 📅 2026-08-24]
 * MiFlash
 * [XiaoMiTool V2](https://www.xiaomitool.com/V2/)
 * [Mi Flash Pro](https://miflashpro.com/)
 * [Xiaomi Flash Tool](https://xiaomiflashtool.com/)
 * [Xiaomi Flashable Firmware Creator](https://forum.xda-developers.com/t/tool-win-linux-mac-xiaomi-flashable-firmware-creator-v2-gui-cli.3871311/)
-* [Xiaomi Firmware Updater](https://forum.xda-developers.com/t/all-devices-xiaomi-firmware-updater-v5-auto-updated-daily.3741446/) \[[sources](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) ⭐ 456 | 🐛 7 | 🌐 Python | 📅 2026-08-24]
 * [Xiaomi Sideload](https://forum.xda-developers.com/t/tool-xiaomi-sideload-read-flash-on-locked-bootloader.4512223/) - A Partition Management app for Xiaomi smartphone running on MIUI 13 & Newer.
 
 #### Motorola
@@ -1222,16 +1222,16 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Other
 
-* [One+\_TooL](https://forum.xda-developers.com/t/one-_tool-with-grayed-out-oem_unlock-bootloader-unlock-enabler-engineer-decrypt.4380419/) - Grayed out Oem\_Unlock (Bootloader Unlock)enabler & Engineer Decrypt
 * [Universal HTC RUU/ROM Decryption Tool](https://forum.xda-developers.com/t/tool-28-nov-2017-universal-htc-ruu-rom-decryption-tool-3-6-8.3382928/) \[[sources](https://github.com/nkk71/HTC-RUU-Decrypt-Tool) ⭐ 30 | 🐛 0 | 🌐 C++ | 📅 2017-09-17]
+* [One+\_TooL](https://forum.xda-developers.com/t/one-_tool-with-grayed-out-oem_unlock-bootloader-unlock-enabler-engineer-decrypt.4380419/) - Grayed out Oem\_Unlock (Bootloader Unlock)enabler & Engineer Decrypt
 
 ### Users scripts
 
 *You can use them as inspiration to create your own or find solutions*
 
-* [ShivamKumarJha/android\_tools (Github)](https://github.com/ShivamKumarJha/android_tools) ⭐ 752 | 🐛 3 | 🌐 Shell | 📅 2025-04-26 - Collection of scripts to help with Android ROM stuff.
+* [ShivamKumarJha/android\_tools (Github)](https://github.com/ShivamKumarJha/android_tools) ⭐ 751 | 🐛 3 | 🌐 Shell | 📅 2025-04-26 - Collection of scripts to help with Android ROM stuff.
 * [akhilnarang/scripts (Github)](https://github.com/akhilnarang/scripts) ⭐ 659 | 🐛 5 | 🌐 Shell | 📅 2026-05-01 - Some script useful for ROM development.
-* [LineageOS scripts](https://github.com/LineageOS/scripts) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-22
+* [LineageOS scripts](https://github.com/LineageOS/scripts) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * [android\_helpful](https://github.com/hpnightowl/android_helpful) ⭐ 18 | 🐛 0 | 🌐 Shell | 📅 2026-07-15
 * [Build scripts](https://github.com/JarlPenguin/releases) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2025-01-18
 * [Android Build Environment Scripts](https://github.com/CyberJalagam/android_rom_building_scripts) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2021-09-14
@@ -1425,8 +1425,8 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
   * [Download](https://sourceforge.net/projects/litegapps/files/)
   * [Documentation](https://litegapps.site/documentation.html)
 * [microG](https://microg.org/) - A anti GAPPS, compatibility with Google Play Service apps without Google.
-  * [Github](https://github.com/microg/GmsCore) ⭐ 14,325 | 🐛 1,382 | 🌐 Java | 📅 2026-07-31
-  * [Wiki](https://github.com/microg/GmsCore/wiki) ⭐ 14,325 | 🐛 1,382 | 🌐 Java | 📅 2026-07-31
+  * [Github](https://github.com/microg/GmsCore) ⭐ 14,331 | 🐛 1,383 | 🌐 Java | 📅 2026-07-31
+  * [Wiki](https://github.com/microg/GmsCore/wiki) ⭐ 14,331 | 🐛 1,383 | 🌐 Java | 📅 2026-07-31
   * [LineageOS ROMs with microG](https://lineage.microg.org/)
   * [Download](https://microg.org/download.html)
   * [Alternative NanoDroid installation](https://nanolx.org/nanolx/nanodroid/)
@@ -1500,8 +1500,8 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 *Source code for some project related to Android AOSP.*
 
-* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,400 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-23
-  * [Download](https://github.com/topjohnwu/Magisk/releases) ⭐ 62,400 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-23
+* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,407 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-23
+  * [Download](https://github.com/topjohnwu/Magisk/releases) ⭐ 62,407 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-23
   * [Installation instruction](https://topjohnwu.github.io/Magisk/install.html)
   * [Documentation](https://topjohnwu.github.io/Magisk/)
 * [Android AOSP mirror Github](https://github.com/aosp-mirror/platform_development) ⚠️ Archived
@@ -1525,13 +1525,13 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ## Related awesome
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 57,318 | 🐛 39 | 📅 2026-06-05 - List of Android UI/UX Libraries
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 57,322 | 🐛 39 | 📅 2026-06-05 - List of Android UI/UX Libraries
 * [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 48,835 | 🐛 3 | 📅 2026-08-24
 * [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 37,496 | 🐛 184 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - Collection of git-tips.
 * [awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,296 | 🐛 94 | 📅 2025-10-27 - For Android application development.
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,636 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 - A collection of android security related resources.
-* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,432 | 🐛 2 | 📅 2026-03-04 - Collection of git commands with descriptions.
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,638 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 - A collection of android security related resources.
+* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,433 | 🐛 2 | 📅 2026-03-04 - Collection of git commands with descriptions.
 * [awesome-linux](https://github.com/inputsh/awesome-linux#readme) ⚠️ Archived - Collections of Linux & GNU\Linux resources.
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full_en.md) ⭐ 5,034 | 🐛 7 | 📅 2021-09-01
 * [awesome-reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,513 | 🐛 18 | 📅 2023-08-19
