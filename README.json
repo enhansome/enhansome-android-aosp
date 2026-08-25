@@ -149,7 +149,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "Github",
+                          "title": "maddiestone/AndroidAppRE",
                           "description": null,
                           "children": [],
                           "repo_info": {
@@ -554,7 +554,7 @@
                 "last_commit": "2026-08-24T11:01:21Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25360
+                "stars": 25369
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-22T02:26:12Z",
                 "owner": "osm0sis",
                 "repo": "AnyKernel3",
-                "stars": 1426
+                "stars": 1427
               }
             },
             {
@@ -865,10 +865,10 @@
                 "archived": false,
                 "id": 173228436,
                 "language": "Java",
-                "last_commit": "2026-08-24T08:41:59Z",
+                "last_commit": "2026-08-24T18:27:21Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72739
+                "stars": 72765
               }
             },
             {
@@ -880,10 +880,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-24T13:18:49Z",
+                "last_commit": "2026-08-25T03:54:47Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24632
+                "stars": 24638
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2026-07-17T04:48:36Z",
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15614
+                "stars": 15615
               }
             },
             {
@@ -913,7 +913,7 @@
                 "last_commit": "2024-08-11T05:17:19Z",
                 "owner": "Genymobile",
                 "repo": "gnirehtet",
-                "stars": 7851
+                "stars": 7854
               }
             },
             {
@@ -928,7 +928,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6202
+                "stars": 6205
               }
             },
             {
@@ -943,7 +943,7 @@
                 "last_commit": "2025-01-26T12:30:47Z",
                 "owner": "jmpews",
                 "repo": "Dobby",
-                "stars": 4811
+                "stars": 4812
               }
             },
             {
@@ -973,7 +973,7 @@
                 "last_commit": "2026-01-05T04:46:46Z",
                 "owner": "vaibhavpandeyvpz",
                 "repo": "apkstudio",
-                "stars": 4629
+                "stars": 4630
               }
             },
             {
@@ -988,7 +988,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2714
+                "stars": 2715
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-08-24T05:06:49Z",
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7117
+                "stars": 7118
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "last_commit": "2024-05-10T13:57:53Z",
                 "owner": "JakeWharton",
                 "repo": "pidcat",
-                "stars": 4949
+                "stars": 4951
               }
             },
             {
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-05-30T20:40:15Z",
                 "owner": "Tortel",
                 "repo": "SysLog",
-                "stars": 291
+                "stars": 292
               }
             },
             {
@@ -1594,7 +1594,7 @@
                     "last_commit": "2026-08-02T09:52:40Z",
                     "owner": "bkerler",
                     "repo": "mtkclient",
-                    "stars": 1073
+                    "stars": 1075
                   }
                 },
                 {
@@ -1705,7 +1705,7 @@
                     "last_commit": "2026-08-24T11:06:05Z",
                     "owner": "zacharee",
                     "repo": "Bifrost",
-                    "stars": 1557
+                    "stars": 1556
                   }
                 },
                 {
@@ -2021,7 +2021,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "wacko1805/Fossapps-creator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2043,7 +2043,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "microg/GmsCore",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2053,7 +2053,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14331
+                "stars": 14338
               }
             },
             {
@@ -2068,7 +2068,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14331
+                "stars": 14338
               }
             }
           ]
@@ -2087,7 +2087,7 @@
                 "archived": false,
                 "id": 351952547,
                 "language": null,
-                "last_commit": "2026-08-24T09:00:25Z",
+                "last_commit": "2026-08-25T01:41:48Z",
                 "owner": "nikgapps",
                 "repo": "config",
                 "stars": 236
@@ -2102,7 +2102,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "opengapps/opengapps",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2167,10 +2167,10 @@
                 "archived": false,
                 "id": 67702184,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T21:46:25Z",
+                "last_commit": "2026-08-24T18:49:40Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62407
+                "stars": 62412
               }
             }
           ],
@@ -2178,10 +2178,10 @@
             "archived": false,
             "id": 67702184,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T21:46:25Z",
+            "last_commit": "2026-08-24T18:49:40Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62407
+            "stars": 62412
           }
         },
         {
@@ -2247,7 +2247,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57322
+            "stars": 57334
           }
         },
         {
@@ -2262,7 +2262,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48835
+            "stars": 48840
           }
         },
         {
@@ -2277,7 +2277,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37496
+            "stars": 37501
           }
         },
         {
@@ -2307,7 +2307,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12296
+            "stars": 12297
           }
         },
         {
@@ -2322,7 +2322,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9638
+            "stars": 9640
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2026-03-04T07:50:34Z",
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7433
+            "stars": 7434
           }
         },
         {
@@ -2397,7 +2397,7 @@
             "last_commit": "2022-09-27T14:10:08Z",
             "owner": "inputsh",
             "repo": "awesome-c",
-            "stars": 3859
+            "stars": 3860
           }
         },
         {
@@ -2412,7 +2412,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2933
+            "stars": 2934
           }
         },
         {
@@ -2453,7 +2453,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/davisRoman/aosp-research",
+          "title": "davisRoman/aosp-research",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2468,7 +2468,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ysh329/android-reverse-engineering",
+          "title": "ysh329/android-reverse-engineering",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2486,7 +2486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:07.647Z",
+    "last_updated": "2026-08-25T06:22:08.463Z",
     "original_repository": "Akipe/awesome-android-aosp",
     "original_repository_id": 604149747,
     "original_repository_sha": "d32ac9e1b77fa3f8ecb7e408ef96a8912fe79ecb",
