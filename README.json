@@ -387,7 +387,7 @@
                 "archived": false,
                 "id": 89932884,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:16:23Z",
+                "last_commit": "2026-08-25T07:40:50Z",
                 "owner": "LineageOS",
                 "repo": "scripts",
                 "stars": 109
@@ -554,7 +554,7 @@
                 "last_commit": "2026-08-24T11:01:21Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25369
+                "stars": 25370
               }
             },
             {
@@ -813,7 +813,7 @@
                 "archived": false,
                 "id": 89932884,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:16:23Z",
+                "last_commit": "2026-08-25T07:40:50Z",
                 "owner": "LineageOS",
                 "repo": "scripts",
                 "stars": 109
@@ -868,7 +868,7 @@
                 "last_commit": "2026-08-24T18:27:21Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72765
+                "stars": 72770
               }
             },
             {
@@ -880,10 +880,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-25T03:54:47Z",
+                "last_commit": "2026-08-25T09:16:03Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24638
+                "stars": 24640
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2026-07-17T04:48:36Z",
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15615
+                "stars": 15616
               }
             },
             {
@@ -913,7 +913,7 @@
                 "last_commit": "2024-08-11T05:17:19Z",
                 "owner": "Genymobile",
                 "repo": "gnirehtet",
-                "stars": 7854
+                "stars": 7855
               }
             },
             {
@@ -988,7 +988,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2715
+                "stars": 2716
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-07-27T17:35:45Z",
                 "owner": "rednaga",
                 "repo": "APKiD",
-                "stars": 2562
+                "stars": 2563
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-08-24T05:06:49Z",
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7118
+                "stars": 7117
               }
             },
             {
@@ -1594,7 +1594,7 @@
                     "last_commit": "2026-08-02T09:52:40Z",
                     "owner": "bkerler",
                     "repo": "mtkclient",
-                    "stars": 1075
+                    "stars": 1078
                   }
                 },
                 {
@@ -1705,7 +1705,7 @@
                     "last_commit": "2026-08-24T11:06:05Z",
                     "owner": "zacharee",
                     "repo": "Bifrost",
-                    "stars": 1556
+                    "stars": 1557
                   }
                 },
                 {
@@ -1750,7 +1750,7 @@
                     "last_commit": "2025-06-07T09:15:12Z",
                     "owner": "Samsung-Loki",
                     "repo": "Thor",
-                    "stars": 410
+                    "stars": 409
                   }
                 },
                 {
@@ -1937,7 +1937,7 @@
                 "archived": false,
                 "id": 89932884,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:16:23Z",
+                "last_commit": "2026-08-25T07:40:50Z",
                 "owner": "LineageOS",
                 "repo": "scripts",
                 "stars": 109
@@ -2053,7 +2053,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14338
+                "stars": 14340
               }
             },
             {
@@ -2068,7 +2068,7 @@
                 "last_commit": "2026-07-31T22:42:49Z",
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14338
+                "stars": 14340
               }
             }
           ]
@@ -2087,7 +2087,7 @@
                 "archived": false,
                 "id": 351952547,
                 "language": null,
-                "last_commit": "2026-08-25T01:41:48Z",
+                "last_commit": "2026-08-25T08:15:13Z",
                 "owner": "nikgapps",
                 "repo": "config",
                 "stars": 236
@@ -2170,7 +2170,7 @@
                 "last_commit": "2026-08-24T18:49:40Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62412
+                "stars": 62415
               }
             }
           ],
@@ -2181,7 +2181,7 @@
             "last_commit": "2026-08-24T18:49:40Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62412
+            "stars": 62415
           }
         },
         {
@@ -2247,7 +2247,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57334
+            "stars": 57338
           }
         },
         {
@@ -2262,7 +2262,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48840
+            "stars": 48841
           }
         },
         {
@@ -2292,7 +2292,7 @@
             "last_commit": "2026-08-10T06:01:21Z",
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21723
+            "stars": 21724
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2026-03-04T07:50:34Z",
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7434
+            "stars": 7435
           }
         },
         {
@@ -2486,7 +2486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:08.463Z",
+    "last_updated": "2026-08-25T09:27:38.405Z",
     "original_repository": "Akipe/awesome-android-aosp",
     "original_repository_id": 604149747,
     "original_repository_sha": "d32ac9e1b77fa3f8ecb7e408ef96a8912fe79ecb",
