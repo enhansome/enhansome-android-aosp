@@ -282,10 +282,10 @@
                         "language": "C++",
                         "license": null,
                         "last_commit": "2026-08-24T08:14:29Z",
-                        "open_issues": 308,
+                        "open_issues": 309,
                         "owner": "TeamWin",
                         "repo": "android_bootable_recovery",
-                        "stars": 1714,
+                        "stars": 1715,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:33:21.584Z"
@@ -516,7 +516,7 @@
                 "id": 89932884,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-26T02:25:25Z",
+                "last_commit": "2026-09-26T19:25:10Z",
                 "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "scripts",
@@ -767,11 +767,11 @@
                 "id": 3766706,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T13:24:02Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-26T13:39:21Z",
+                "open_issues": 77,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25673,
+                "stars": 25676,
                 "topics": [
                   "9patch",
                   "android",
@@ -796,10 +796,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-26T18:41:58Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "ax",
                 "repo": "apk.sh",
-                "stars": 3836,
+                "stars": 3834,
                 "topics": [
                   "android",
                   "android-reverse-engineering",
@@ -1139,7 +1139,7 @@
                 "id": 89932884,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-26T02:25:25Z",
+                "last_commit": "2026-09-26T19:25:10Z",
                 "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "scripts",
@@ -1222,10 +1222,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T09:27:37Z",
-                "open_issues": 1960,
+                "open_issues": 1963,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 79708,
+                "stars": 79761,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1246,11 +1246,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T11:10:34Z",
-                "open_issues": 813,
+                "last_commit": "2026-09-27T13:00:12Z",
+                "open_issues": 805,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24876,
+                "stars": 24882,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1282,7 +1282,7 @@
                 "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15654,
+                "stars": 15655,
                 "topics": [
                   "android",
                   "apk",
@@ -1324,7 +1324,7 @@
                 "open_issues": 326,
                 "owner": "Genymobile",
                 "repo": "gnirehtet",
-                "stars": 7944,
+                "stars": 7949,
                 "topics": [
                   "android",
                   "java-8",
@@ -1351,7 +1351,7 @@
                 "open_issues": 1,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6295,
+                "stars": 6298,
                 "topics": [
                   "android",
                   "dalvik",
@@ -1379,7 +1379,7 @@
                 "open_issues": 98,
                 "owner": "jmpews",
                 "repo": "Dobby",
-                "stars": 4834,
+                "stars": 4836,
                 "topics": [
                   "hook",
                   "hook-framework"
@@ -1403,7 +1403,7 @@
                 "open_issues": 33,
                 "owner": "CalebFenton",
                 "repo": "simplify",
-                "stars": 4667,
+                "stars": 4668,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1475,7 +1475,7 @@
                 "open_issues": 11,
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2757,
+                "stars": 2759,
                 "topics": [
                   "android",
                   "android-signing-scheme",
@@ -1507,7 +1507,7 @@
                 "open_issues": 84,
                 "owner": "rednaga",
                 "repo": "APKiD",
-                "stars": 2577,
+                "stars": 2578,
                 "topics": [
                   "android",
                   "android-protect-apps",
@@ -1745,11 +1745,11 @@
                 "id": 248400799,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T12:00:11Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-27T02:22:58Z",
+                "open_issues": 15,
                 "owner": "LibChecker",
                 "repo": "LibChecker",
-                "stars": 7187,
+                "stars": 7190,
                 "topics": [
                   "android",
                   "f-droid",
@@ -1993,7 +1993,7 @@
                 "open_issues": 35,
                 "owner": "jtsylve",
                 "repo": "LiME",
-                "stars": 2038,
+                "stars": 2040,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:33:21.584Z"
@@ -2443,10 +2443,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-12T11:25:02Z",
-                    "open_issues": 75,
+                    "open_issues": 74,
                     "owner": "bkerler",
                     "repo": "mtkclient",
-                    "stars": 1227,
+                    "stars": 1234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:33:21.584Z"
@@ -2493,7 +2493,7 @@
                         "open_issues": 36,
                         "owner": "MTK-bypass",
                         "repo": "exploits_collection",
-                        "stars": 379,
+                        "stars": 378,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T20:33:21.584Z"
@@ -2572,7 +2572,7 @@
                     "open_issues": 259,
                     "owner": "Benjamin-Dobell",
                     "repo": "Heimdall",
-                    "stars": 3106,
+                    "stars": 3107,
                     "topics": [
                       "android",
                       "firmware",
@@ -2596,8 +2596,8 @@
                     "id": 342079605,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T16:01:14Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-26T22:09:02Z",
+                    "open_issues": 3,
                     "owner": "zacharee",
                     "repo": "Bifrost",
                     "stars": 1608,
@@ -2651,7 +2651,7 @@
                     "open_issues": 0,
                     "owner": "SlackingVeteran",
                     "repo": "frija",
-                    "stars": 748,
+                    "stars": 749,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:33:21.584Z"
@@ -2796,7 +2796,7 @@
                     "open_issues": 25,
                     "owner": "kitsuned",
                     "repo": "PotatoNV",
-                    "stars": 1677,
+                    "stars": 1680,
                     "topics": [
                       "android",
                       "bootloader",
@@ -2935,7 +2935,7 @@
                 "id": 89932884,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-26T02:25:25Z",
+                "last_commit": "2026-09-26T19:25:10Z",
                 "open_issues": 0,
                 "owner": "LineageOS",
                 "repo": "scripts",
@@ -3140,10 +3140,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T10:01:42Z",
-                "open_issues": 1397,
+                "open_issues": 1398,
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14692,
+                "stars": 14702,
                 "topics": [
                   "android",
                   "auth",
@@ -3176,10 +3176,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T10:01:42Z",
-                "open_issues": 1397,
+                "open_issues": 1398,
                 "owner": "microg",
                 "repo": "GmsCore",
-                "stars": 14692,
+                "stars": 14702,
                 "topics": [
                   "android",
                   "auth",
@@ -3218,7 +3218,7 @@
                 "id": 351952547,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-26T10:10:58Z",
+                "last_commit": "2026-09-27T10:28:49Z",
                 "open_issues": 2,
                 "owner": "nikgapps",
                 "repo": "config",
@@ -3250,7 +3250,7 @@
                 "open_issues": 28,
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963,
+                "stars": 5962,
                 "topics": [
                   "android",
                   "apk",
@@ -3279,7 +3279,7 @@
                 "open_issues": 28,
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963,
+                "stars": 5962,
                 "topics": [
                   "android",
                   "apk",
@@ -3308,7 +3308,7 @@
                 "open_issues": 28,
                 "owner": "opengapps",
                 "repo": "opengapps",
-                "stars": 5963,
+                "stars": 5962,
                 "topics": [
                   "android",
                   "apk",
@@ -3350,7 +3350,7 @@
                 "open_issues": 36,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62944,
+                "stars": 62959,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:33:21.584Z"
@@ -3367,7 +3367,7 @@
             "open_issues": 36,
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62944,
+            "stars": 62959,
             "topics": []
           },
           "first_seen": "2026-08-28T20:33:21.584Z"
@@ -3457,7 +3457,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57730,
+            "stars": 57746,
             "topics": [
               "android",
               "awesome",
@@ -3479,10 +3479,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49106,
+            "stars": 49112,
             "topics": [
               "awesome",
               "awesome-list"
@@ -3503,10 +3503,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37678,
+            "stars": 37687,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3536,7 +3536,7 @@
             "open_issues": 4,
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21726,
+            "stars": 21727,
             "topics": [
               "git",
               "tips",
@@ -3558,10 +3558,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-10-27T08:14:07Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12354,
+            "stars": 12355,
             "topics": [
               "android-development",
               "android-library",
@@ -3590,7 +3590,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9706,
+            "stars": 9707,
             "topics": [
               "android",
               "awesome",
@@ -3672,7 +3672,7 @@
             "open_issues": 8,
             "owner": "alphaSeclab",
             "repo": "awesome-reverse-engineering",
-            "stars": 5067,
+            "stars": 5068,
             "topics": [
               "android-security",
               "angr",
@@ -3756,7 +3756,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2949,
@@ -3878,7 +3878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:32:22.148Z",
+    "last_updated": "2026-09-27T14:28:59.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Android AOSP and ROM development related resources",
