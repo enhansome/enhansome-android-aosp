@@ -2,9 +2,9 @@
 
 > A collection of Android AOSP system (Android Open Source Project) and ROM development related resources.
 
-This collection does not concern the development of application, there is a awesome list concerning this case at [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,483 | 🐛 0 | 📅 2026-11-22.
+This collection does not concern the development of application, there is a awesome list concerning this case at [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,487 | 🐛 0 | 📅 2026-11-22.
 
-Inspired by many awesome list like [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 542,233 | 🐛 103 | 📅 2026-09-02.
+Inspired by many awesome list like [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 542,726 | 🐛 103 | 📅 2026-09-02.
 
 **This project is in work in progress !!! Some links may be not valid or not so useful.**
 
@@ -172,7 +172,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 * [Android Tools (Github)](https://github.com/nathanchance/Android-Tools/) ⭐ 196 | 🐛 2 | 🌐 Shell | 📅 2021-08-03 (2021) - Contains public guides and scripts tailored for custom Android Development.
 * [Building AOSP](https://github.com/nathanchance/android-tools/blob/main/guides/building_aosp.txt) ⭐ 196 | 🐛 2 | 🌐 Shell | 📅 2021-08-03 (2021)
-* [Some problems that can occur while rom compilation and their solutions(especially for lettuce)](https://github.com/hpnightowl/android_helpful/blob/master/errors.txt) ⭐ 19 | 🐛 0 | 🌐 Shell | 📅 2026-09-03 (2019)
+* [Some problems that can occur while rom compilation and their solutions(especially for lettuce)](https://github.com/hpnightowl/android_helpful/blob/master/errors.txt) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-11-25 (2019)
 * [AOSP Part 3: Developing Efficiently](https://blog.udinic.com/2014/07/24/aosp-part-3-developing-efficiently/) (2014)
 * [AOSP: Advanced Development Tricks ](https://www.inovex.de/de/blog/aosp-advanced-development-tricks/) (2021)
 * [How to build Custom ROMs and Kernels!\[10,P,O,N,M,L\]](https://forum.xda-developers.com/t/guide-video-tutorial-how-to-build-custom-roms-and-kernels-10-p-o-n-m-l.3814251/) (2019)
@@ -715,7 +715,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ##### TWRP
 
-* [Android.mk : a set of tag](https://github.com/TeamWin/android_bootable_recovery/blob/android-12.1/Android.mk) ⭐ 1,734 | 🐛 311 | 🌐 C++ | 📅 2026-11-02
+* [Android.mk : a set of tag](https://github.com/TeamWin/android_bootable_recovery/blob/android-12.1/Android.mk) ⭐ 1,735 | 🐛 311 | 🌐 C++ | 📅 2026-11-02
 * [How generate TWRP with TwrpBuilder](https://github.com/TwrpBuilder/twrpbuilder_tree_generator/wiki) ⭐ 125 | 🐛 4 | 🌐 Java | 📅 2023-07-12
 * [TWRP standard device files for Qualcomm SoCs decryption](https://github.com/TeamWin/android_device_qcom_twrp-common) ⭐ 59 | 🐛 1 | 🌐 Shell | 📅 2025-02-22
 * [How to create twrp device tree from scratch](https://www.youtube.com/playlist?list=PLsljP0DCGt1EBN4X-NR3-oS6f1NYxLLQA)
@@ -772,14 +772,14 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Bash & shell
 
-*There is also an awesome list with more resources : [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 38,017 | 🐛 198 | 📅 2025-08-28*.
+*There is also an awesome list with more resources : [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 38,021 | 🐛 197 | 📅 2025-08-28*.
 
 * [Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 * [Linux](https://www.youtube.com/playlist?list=PLRJ9-cX1yE1m0G44PfLl8eK_gt_dXd8Ay)
 
 #### Git, Gerrit & merging
 
-*There is also awesome lists with more resources : [awesome-git](https://github.com/dictcp/awesome-git#readme) ⭐ 2,984 | 🐛 132 | 📅 2026-10-23, [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,494 | 🐛 0 | 📅 2026-11-05 and [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-31.*
+*There is also awesome lists with more resources : [awesome-git](https://github.com/dictcp/awesome-git#readme) ⭐ 2,984 | 🐛 132 | 📅 2026-10-23, [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,495 | 🐛 0 | 📅 2026-11-05 and [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-31.*
 
 * [How AOSP Security Patches are merged into Android Custom ROMs?](https://adityatelange.in/blog/aosp/merge-security-patches-aosp/)
 * [How-To Cherry-Pick Features for your ROM (both Github and Gerrit)](https://forum.xda-developers.com/t/guide-how-to-cherry-pick-features-for-your-rom-both-github-and-gerrit.2763236/)
@@ -944,15 +944,15 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Generator
 
-* [twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) ⭐ 909 | 🐛 18 | 🌐 Jinja | 📅 2026-10-24 [(doc)](https://github.com/twrpdtgen/twrpdtgen/wiki) ⭐ 909 | 🐛 18 | 🌐 Jinja | 📅 2026-10-24 - Create a TWRP device tree only from an Android recovery stock image ROM.
+* [twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) ⭐ 910 | 🐛 18 | 🌐 Jinja | 📅 2026-10-24 [(doc)](https://github.com/twrpdtgen/twrpdtgen/wiki) ⭐ 910 | 🐛 18 | 🌐 Jinja | 📅 2026-10-24 - Create a TWRP device tree only from an Android recovery stock image ROM.
 * [aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) ⭐ 354 | 🐛 8 | 🌐 Python | 📅 2026-10-25 - Create a LineageOS-compatible device tree from an Android stock ROM dump made with dumpyara.
 * [TwrpBuilder](https://github.com/TwrpBuilder/twrpbuilder_tree_generator) ⭐ 125 | 🐛 4 | 🌐 Java | 📅 2023-07-12 - Generate twrp device tree just using recovery.img and build.prop.
 
 ### Extractor/Repack/Patcher
 
-* [apktool](https://ibotpeaches.github.io/Apktool/) \[[sources](https://github.com/iBotPeaches/Apktool) ⭐ 27,357 | 🐛 78 | 🌐 Java | 📅 2026-11-23]
+* [apktool](https://ibotpeaches.github.io/Apktool/) \[[sources](https://github.com/iBotPeaches/Apktool) ⭐ 27,370 | 🐛 78 | 🌐 Java | 📅 2026-11-23]
 * [apk.sh](https://forum.xda-developers.com/t/apk-sh-makes-reverse-engineering-android-apps-easier.4513735/) \[[sources](https://github.com/ax/apk.sh) ⭐ 3,871 | 🐛 9 | 🌐 Shell | 📅 2026-01-26] - Makes reverse engineering Android apps easier.
-* [AnyKernel3](https://forum.xda-developers.com/t/dev-template-anykernel3-easily-mod-rom-ramdisk-pack-image-gz-flashable-zip.2670512/) \[[sources](https://github.com/osm0sis/AnyKernel3/) ⭐ 1,483 | 🐛 0 | 🌐 Shell | 📅 2026-10-27/[download](https://github.com/osm0sis/AnyKernel3/archive/master.zip) ⭐ 1,483 | 🐛 0 | 🌐 Shell | 📅 2026-10-27] Flashable Zip Template for Kernel Releases with Ramdisk Modifications.
+* [AnyKernel3](https://forum.xda-developers.com/t/dev-template-anykernel3-easily-mod-rom-ramdisk-pack-image-gz-flashable-zip.2670512/) \[[sources](https://github.com/osm0sis/AnyKernel3/) ⭐ 1,485 | 🐛 0 | 🌐 Shell | 📅 2026-10-27/[download](https://github.com/osm0sis/AnyKernel3/archive/master.zip) ⭐ 1,485 | 🐛 0 | 🌐 Shell | 📅 2026-10-27] Flashable Zip Template for Kernel Releases with Ramdisk Modifications.
 * [simg2img](https://github.com/anestisb/android-simg2img) ⭐ 847 | 🐛 14 | 🌐 C++ | 📅 2025-04-22 - Convert Android sparse images to raw images.
 * [mkbootimg\_tools](https://github.com/xiaolu/mkbootimg_tools) ⭐ 592 | 🐛 14 | 🌐 Shell | 📅 2020-01-01 \[[help](https://forum.xda-developers.com/t/development-mkbootimg-tools.2895954/)]
 * [LazyFlasher](https://forum.xda-developers.com/t/zip-lazyflasher-the-swiss-army-knife-of-flashing-custom-kernels.3549210/) \[[sources](https://github.com/jcadduono/lazyflasher) ⭐ 236 | 🐛 7 | 🌐 Shell | 📅 2019-11-12] - the swiss army knife of flashing custom kernels.
@@ -990,7 +990,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Kernel
 
-* [Toolchain build scripts](https://github.com/ClangBuiltLinux/tc-build) ⭐ 251 | 🐛 10 | 🌐 Python | 📅 2026-11-19 - A set of script for building kernel with LLCM, clang.
+* [Toolchain build scripts](https://github.com/ClangBuiltLinux/tc-build) ⭐ 250 | 🐛 10 | 🌐 Python | 📅 2026-11-19 - A set of script for building kernel with LLCM, clang.
 * [bldgcc](https://github.com/nathanchance/android-tools/blob/main/scripts/bldgcc) ⭐ 196 | 🐛 2 | 🌐 Shell | 📅 2021-08-03 - Builds GCC and binutils for exclusively building kernels.
 * [best-caf-kernel.py](https://github.com/LineageOS/scripts/blob/master/best-caf-kernel/best-caf-kernel.py) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Finding the best CAF tag for a vendor kernel.
 * [Kernel Rebaser Script](https://github.com/Sushrut1101/android-kernel-rebaser) ⭐ 37 | 🐛 0 | 🌐 Shell | 📅 2023-02-07 - Rebase an OEM kernel to Android Common Kernel base.
@@ -999,20 +999,20 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Blob & vendor
 
-* [Ghidra](https://ghidra-sre.org/) \[[sources](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,206 | 🐛 2,238 | 🌐 Java | 📅 2026-11-24] - A software reverse .engineering (SRE) framework
-* [radare2](https://github.com/radareorg/radare2) ⭐ 25,501 | 🐛 813 | 🌐 C | 📅 2026-11-24 - UNIX-like reverse engineering framework and command-line toolset.
-* [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) ⭐ 15,731 | 🐛 103 | 🌐 Java | 📅 2026-10-30 - A lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.
-* [gnirehtet](https://github.com/genymobile/gnirehtet) ⭐ 8,090 | 🐛 331 | 🌐 Java | 📅 2024-08-11 - Provides reverse tethering for Android.
-* [androguard](https://github.com/androguard/androguard) ⭐ 6,458 | 🐛 5 | 🌐 Python | 📅 2026-10-25 - Reverse engineering and pentesting for Android applications.
+* [Ghidra](https://ghidra-sre.org/) \[[sources](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,318 | 🐛 2,202 | 🌐 Java | 📅 2026-11-25] - A software reverse .engineering (SRE) framework
+* [radare2](https://github.com/radareorg/radare2) ⭐ 25,506 | 🐛 814 | 🌐 C | 📅 2026-11-25 - UNIX-like reverse engineering framework and command-line toolset.
+* [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) ⭐ 15,732 | 🐛 103 | 🌐 Java | 📅 2026-10-30 - A lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.
+* [gnirehtet](https://github.com/genymobile/gnirehtet) ⭐ 8,093 | 🐛 331 | 🌐 Java | 📅 2024-08-11 - Provides reverse tethering for Android.
+* [androguard](https://github.com/androguard/androguard) ⭐ 6,460 | 🐛 5 | 🌐 Python | 📅 2026-10-25 - Reverse engineering and pentesting for Android applications.
 * [Dobby](https://github.com/jmpews/Dobby) ⭐ 4,885 | 🐛 100 | 🌐 C++ | 📅 2025-01-26 - A lightweight, multi-platform, multi-architecture hook framework.
-* [APK Studio](https://vaibhavpandey.com/apkstudio/) \[[source](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,750 | 🐛 5 | 🌐 C++ | 📅 2026-10-28] - IDE for reverse-engineering Android application packages.
+* [APK Studio](https://vaibhavpandey.com/apkstudio/) \[[source](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,753 | 🐛 5 | 🌐 C++ | 📅 2026-10-28] - IDE for reverse-engineering Android application packages.
 * [Simplify](https://github.com/calebfenton/simplify) ⭐ 4,685 | 🐛 33 | 🌐 Kotlin | 📅 2026-11-08 - Generic Android Deobfuscator.
-* [Uber Apk Signer](https://github.com/patrickfav/uber-apk-signer) ⭐ 2,817 | 🐛 11 | 🌐 Java | 📅 2023-10-30 - A tool that helps to sign, zip aligning and verifying multiple Android application packages.
+* [Uber Apk Signer](https://github.com/patrickfav/uber-apk-signer) ⭐ 2,819 | 🐛 11 | 🌐 Java | 📅 2023-10-30 - A tool that helps to sign, zip aligning and verifying multiple Android application packages.
 * [APKiD](https://github.com/rednaga/apkid) ⭐ 2,641 | 🐛 86 | 🌐 YARA | 📅 2026-10-21 - Gives you information about how an APK was made.
-* [Dexcalibur](https://github.com/frenchyeti/dexcalibur) ⭐ 1,194 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-02 - An Android reverse engineering platform focus on instrumentation automation.
+* [Dexcalibur](https://github.com/frenchyeti/dexcalibur) ⭐ 1,195 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-02 - An Android reverse engineering platform focus on instrumentation automation.
 * [androidre](https://github.com/cryptax/androidre) ⭐ 610 | 🐛 1 | 🌐 Reason | 📅 2026-11-10 - Reverse engineering Android.
 * [DumprX](https://github.com/DumprX/DumprX) ⭐ 255 | 🐛 2 | 🌐 Python | 📅 2026-07-30 - Firmware extractor based on dumpyara.
-* [dumpyara](https://github.com/AndroidDumps/dumpyara) ⭐ 239 | 🐛 6 | 🌐 Shell | 📅 2025-07-31 - Dumping vendor and Android content of a device.
+* [dumpyara](https://github.com/AndroidDumps/dumpyara) ⭐ 240 | 🐛 6 | 🌐 Shell | 📅 2025-07-31 - Dumping vendor and Android content of a device.
 * [aosp-missing-blobs](https://github.com/joshchoo/aosp-missing-blobs) ⭐ 216 | 🐛 0 | 🌐 Rust | 📅 2025-05-22 - Identify required blobs that are missing from AOSP ROM builds with dependencies.
 * [dumpyara (Python)](https://github.com/sebaubuntu-python/dumpyara) ⭐ 180 | 🐛 12 | 🌐 Python | 📅 2026-11-03 - Like dumpyara but code in Python.
 * [Android-Blob-Utility](https://forum.xda-developers.com/t/blob-utility-for-aosp-based-roms.2794413/) [(sources)](https://github.com/JackpotClavin/Android-Blob-Utility) ⭐ 148 | 🐛 6 | 🌐 C | 📅 2020-07-09 - Easily find which proprietary blobs is needed.
@@ -1030,11 +1030,11 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Informations
 
-* [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,361 | 🐛 14 | 🌐 Kotlin | 📅 2026-11-24 ([f-droid](https://f-droid.org/packages/com.absinthe.libchecker/)/[playstore](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)) - View the third-party libraries used by applications in your device.
+* [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,362 | 🐛 14 | 🌐 Kotlin | 📅 2026-11-24 ([f-droid](https://f-droid.org/packages/com.absinthe.libchecker/)/[playstore](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)) - View the third-party libraries used by applications in your device.
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) ⭐ 487 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-24 [(izzyondroid)](https://apt.izzysoft.de/fdroid/index/apk/com.trustdevice.android)- Get informations about security and other.
 * [Codec Info](https://github.com/Parseus/codecinfo) ⚠️ Archived ([playstore](https://play.google.com/store/apps/details?id=com.parseus.codecinfo)/[izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/com.parseus.codecinfo)) - Detailed listing of multimedia codecs on your Android device.
 * [SysInfo](https://github.com/kl3jvi/sysinfo_app) ⭐ 79 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-21 ([izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/com.kl3jvi.sysinfo)) - Simple and powerful application that gives you complete information about your mobile device.
-* [Devstat](https://ianfield.com/DevStat/) ([source](https://github.com/IanField90/DevStat) ⭐ 21 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-30/[izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/uk.co.ianfield.devstat)) - Help you debug a number device issues like identifying various features you request in your AndroidManifest.xml.
+* [Devstat](https://ianfield.com/DevStat/) ([source](https://github.com/IanField90/DevStat) ⭐ 21 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-24/[izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/uk.co.ianfield.devstat)) - Help you debug a number device issues like identifying various features you request in your AndroidManifest.xml.
 * [Device Info HW (playstore](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw\&pli=1)/[paid version)](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw.pro) - A hardware and software information app for Android devices.
 * [TrebleInfo](https://gitlab.com/TrebleInfo/TrebleInfo) ([playstore](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)/[f-droid](https://f-droid.org/packages/tk.hack5.treblecheck/)/[izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/tk.hack5.treblecheck)) -  Check the Treble GSI requirements and determine the correct GSI type for your device.
 * [Kaltura Device Info](https://bitbucket.org/oF2pks/kaltura-device-info-android/src/master/) ([playstore](https://play.google.com/store/apps/details?id=com.kaltura.kalturadeviceinfo)/[f-droid](https://f-droid.org/fr/packages/com.oF2pks.kalturadeviceinfos/))
@@ -1046,7 +1046,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Debugging
 
-* [Tinker](https://github.com/tencent/tinker) ⭐ 17,674 | 🐛 571 | 🌐 Java | 📅 2026-11-24 - A hot-fix solution library for Android, it supports dex, library and resources update without reinstalling apk.
+* [Tinker](https://github.com/tencent/tinker) ⭐ 17,676 | 🐛 571 | 🌐 Java | 📅 2026-11-24 - A hot-fix solution library for Android, it supports dex, library and resources update without reinstalling apk.
 * [PID Cat](https://github.com/JakeWharton/pidcat) ⭐ 4,953 | 🐛 66 | 🌐 Python | 📅 2024-05-10 - Only display log messages coming from a specific application.
 * [reverse-hal.sh](https://github.com/phhusson/treble_experimentations/blob/master/vendor-HAL/reverse-hal.sh) ⚠️ Archived
 * [drmemory](https://github.com/dynamorio/drmemory) ⭐ 2,755 | 🐛 1,048 | 🌐 C | 📅 2025-12-13 - Memory Debugger for Windows, Linux, Mac, and Android.
@@ -1120,7 +1120,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ### Magisk
 
-* [TWRP A/B Retention Script Zip Module](https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/page-102#post-77770683) \[[source](https://github.com/Magisk-Modules-Repo/twrp-keep) ⭐ 279 | 🐛 0 | 🌐 Shell | 📅 2026-08-08]
+* [TWRP A/B Retention Script Zip Module](https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421/page-102#post-77770683) \[[source](https://github.com/Magisk-Modules-Repo/twrp-keep) ⭐ 280 | 🐛 0 | 🌐 Shell | 📅 2026-08-08]
 
 ### Drivers
 
@@ -1157,7 +1157,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### MediaTek
 
-* [MTKClient](https://github.com/bkerler/mtkclient) ⭐ 1,597 | 🐛 75 | 🌐 Python | 📅 2026-11-20 \[[download](https://github.com/bkerler/mtkclient/releases) ⭐ 1,597 | 🐛 75 | 🌐 Python | 📅 2026-11-20] - MTK reverse engineering and flash tool.
+* [MTKClient](https://github.com/bkerler/mtkclient) ⭐ 1,605 | 🐛 75 | 🌐 Python | 📅 2026-11-25 \[[download](https://github.com/bkerler/mtkclient/releases) ⭐ 1,605 | 🐛 75 | 🌐 Python | 📅 2026-11-25] - MTK reverse engineering and flash tool.
   * [Guide](https://forum.xda-developers.com/t/guide-mtk-how-to-use-mtkclient-and-set-it-up.4509245/)
 * [SP Flash Tool](https://spflashtools.com/category/windows) [other source](https://spflashtool.com/)  - An application which mainly helps you to flash Stock ROM, Custom recovery and fixing in some extreme cases.
 * [SP MDT Tool](https://spmdttool.com/) \[potential virus!]
@@ -1178,8 +1178,8 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Samsung
 
-* [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,152 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 and [website](https://glassechidna.com.au/heimdall/) - A cross-platform open-source tool suite used to flash firmware onto Samsung devices.
-* [Bifrost](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,694 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-26 - Yet another firmware downloader for Samsung devices.
+* [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,153 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 and [website](https://glassechidna.com.au/heimdall/) - A cross-platform open-source tool suite used to flash firmware onto Samsung devices.
+* [Bifrost](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,697 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-26 - Yet another firmware downloader for Samsung devices.
 * [samloader](https://github.com/samloader/samloader) ⚠️ Archived - Download firmware for Samsung devices.
 * [frija](https://forum.xda-developers.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) [sources](https://github.com/SlackingVeteran/frija) ⭐ 767 | 🐛 0 | 📅 2026-05-22 - Download latest firmware for a Samsung device.
 * [Thor](https://forum.xda-developers.com/t/abandoned-thor-open-source-samsung-flash-tool-with-additinal-features.4453437/) \[[source](https://github.com/Samsung-Loki/thor) ⚠️ Archived/[download](https://nightly.link/Samsung-Loki/Thor/workflows/build/main)[documentation](https://samsung-loki.github.io/samsung-docs/)] - An alternative to well-known Heimdall.
@@ -1203,7 +1203,7 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 #### Xiaomi
 
-* [Xiaomi Firmware Updater](https://forum.xda-developers.com/t/all-devices-xiaomi-firmware-updater-v5-auto-updated-daily.3741446/) \[[sources](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) ⭐ 465 | 🐛 19 | 🌐 Python | 📅 2026-11-21]
+* [Xiaomi Firmware Updater](https://forum.xda-developers.com/t/all-devices-xiaomi-firmware-updater-v5-auto-updated-daily.3741446/) \[[sources](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) ⭐ 465 | 🐛 19 | 🌐 Python | 📅 2026-11-24]
 * MiFlash
 * [XiaoMiTool V2](https://www.xiaomitool.com/V2/)
 * [Mi Flash Pro](https://miflashpro.com/)
@@ -1229,10 +1229,10 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 *You can use them as inspiration to create your own or find solutions*
 
-* [ShivamKumarJha/android\_tools (Github)](https://github.com/ShivamKumarJha/android_tools) ⭐ 750 | 🐛 3 | 🌐 Shell | 📅 2025-04-26 - Collection of scripts to help with Android ROM stuff.
+* [ShivamKumarJha/android\_tools (Github)](https://github.com/ShivamKumarJha/android_tools) ⭐ 751 | 🐛 3 | 🌐 Shell | 📅 2025-04-26 - Collection of scripts to help with Android ROM stuff.
 * [akhilnarang/scripts (Github)](https://github.com/akhilnarang/scripts) ⭐ 662 | 🐛 5 | 🌐 Shell | 📅 2026-05-01 - Some script useful for ROM development.
 * [LineageOS scripts](https://github.com/LineageOS/scripts) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2026-11-20
-* [android\_helpful](https://github.com/hpnightowl/android_helpful) ⭐ 19 | 🐛 0 | 🌐 Shell | 📅 2026-09-03
+* [android\_helpful](https://github.com/hpnightowl/android_helpful) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-11-25
 * [Build scripts](https://github.com/JarlPenguin/releases) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2025-01-18
 * [Android Build Environment Scripts](https://github.com/CyberJalagam/android_rom_building_scripts) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2026-09-23
 * [XSans0/my-script](https://github.com/XSans0/my-script) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2024-01-02
@@ -1425,13 +1425,13 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
   * [Download](https://sourceforge.net/projects/litegapps/files/)
   * [Documentation](https://litegapps.site/documentation.html)
 * [microG](https://microg.org/) - A anti GAPPS, compatibility with Google Play Service apps without Google.
-  * [Github](https://github.com/microg/GmsCore) ⭐ 15,415 | 🐛 1,525 | 🌐 Java | 📅 2026-11-12
-  * [Wiki](https://github.com/microg/GmsCore/wiki) ⭐ 15,415 | 🐛 1,525 | 🌐 Java | 📅 2026-11-12
+  * [Github](https://github.com/microg/GmsCore) ⭐ 15,435 | 🐛 1,527 | 🌐 Java | 📅 2026-11-12
+  * [Wiki](https://github.com/microg/GmsCore/wiki) ⭐ 15,435 | 🐛 1,527 | 🌐 Java | 📅 2026-11-12
   * [LineageOS ROMs with microG](https://lineage.microg.org/)
   * [Download](https://microg.org/download.html)
   * [Alternative NanoDroid installation](https://nanolx.org/nanolx/nanodroid/)
 * [NikGApps](https://nikgapps.com/)
-  * [Create own configuration](https://github.com/nikgapps/config) ⭐ 238 | 🐛 2 | 📅 2026-11-24
+  * [Create own configuration](https://github.com/nikgapps/config) ⭐ 238 | 🐛 1 | 📅 2026-11-24
   * [XDA thread](https://forum.xda-developers.com/t/android-13-gapps-nikgapps-arm64.3915866/)
   * [Download](https://sourceforge.net/projects/nikgapps/files/)
   * [FAQ](https://nikgapps.com/faqs)
@@ -1500,8 +1500,8 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 *Source code for some project related to Android AOSP.*
 
-* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 64,272 | 🐛 62 | 🌐 Kotlin | 📅 2026-11-24
-  * [Download](https://github.com/topjohnwu/Magisk/releases) ⭐ 64,272 | 🐛 62 | 🌐 Kotlin | 📅 2026-11-24
+* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 64,300 | 🐛 63 | 🌐 Kotlin | 📅 2026-11-24
+  * [Download](https://github.com/topjohnwu/Magisk/releases) ⭐ 64,300 | 🐛 63 | 🌐 Kotlin | 📅 2026-11-24
   * [Installation instruction](https://topjohnwu.github.io/Magisk/install.html)
   * [Documentation](https://topjohnwu.github.io/Magisk/)
 * [Android AOSP mirror Github](https://github.com/aosp-mirror/platform_development) ⚠️ Archived
@@ -1525,16 +1525,16 @@ There are also nice complete guide in videos available at [channel\_videos.md](c
 
 ## Related awesome
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 58,658 | 🐛 44 | 📅 2026-06-05 - List of Android UI/UX Libraries
-* [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,630 | 🐛 53 | 📅 2026-09-23
-* [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 38,017 | 🐛 198 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 58,672 | 🐛 44 | 📅 2026-06-05 - List of Android UI/UX Libraries
+* [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 49,641 | 🐛 56 | 📅 2026-09-23
+* [awesome-shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 38,021 | 🐛 197 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [git-tips](https://github.com/git-tips/tips#readme) ⭐ 21,723 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-31 - Collection of git-tips.
-* [awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,483 | 🐛 0 | 📅 2026-11-22 - For Android application development.
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,856 | 🐛 3 | 🌐 Makefile | 📅 2026-11-23 - A collection of android security related resources.
-* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,494 | 🐛 0 | 📅 2026-11-05 - Collection of git commands with descriptions.
+* [awesome-android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,487 | 🐛 0 | 📅 2026-11-22 - For Android application development.
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,860 | 🐛 1 | 🌐 Makefile | 📅 2026-11-24 - A collection of android security related resources.
+* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,495 | 🐛 0 | 📅 2026-11-05 - Collection of git commands with descriptions.
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full_en.md) ⭐ 5,226 | 🐛 10 | 📅 2021-09-01
 * [awesome-linux](https://github.com/inputsh/awesome-linux#readme) ⚠️ Archived - Collections of Linux & GNU\Linux resources.
-* [awesome-reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,525 | 🐛 20 | 📅 2023-08-19
+* [awesome-reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,527 | 🐛 20 | 📅 2023-08-19
 * [awesome-c](https://github.com/inputsh/awesome-c) ⚠️ Archived - A curated list of C good stuff.
 * [awesome-git](https://github.com/dictcp/awesome-git#readme) ⭐ 2,984 | 🐛 132 | 📅 2026-10-23 - Ressources for learning how to use Git.
 * [awesome-make](https://github.com/adelarsq/awesome-make#readme) ⭐ 73 | 🐛 2 | 📅 2025-06-20 - Collections of Make resources.
@@ -1559,4 +1559,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
